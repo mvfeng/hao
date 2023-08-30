@@ -1,0 +1,48 @@
+baseURL               = "https://hao.94c.cn/"
+languageCode          = "zh-CN"
+title                 = "好就是C 网址导航 ai导航"
+theme                 = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower    = true
+hasCJKLanguage        = true
+publishDir            = "public"					# 站点静态文件保存目录
+
+
+[params]
+    author        = "94c社区"
+    description   = "hao.94c.cn 网址导航 | ai导航领导者chatgpt"
+    upload        = "#"  # 左侧导航栏的"网站提交"
+    about         = "#"	# 左侧导航栏的"关于导航"页面(./about)
+    repository    = "https://github.com/shenweiyan/WebStack-Hugo"  
+    enablePreLoad = false					# 网站完全打开前预加载动画
+    textPreLoad   = "hao.94c.cn"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    expandSidebar = true					# 默认展开左侧边导航栏
+    logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
+    defaultLogo   = "assets/images/logos/compass.png"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
+    nightMode     = false					# 默认站点为深色(夜间)模式
+    yiyan         = true                         		# 默认启用一言服务
+
+[params.seo]    
+    baiduhmid       = '7ab391c7100e2e3ff376ff696f0257ad'	# 百度统计 hm.src 的 ID
+    baiduSiteVer    = '#'			# 百度HTML标签验证(baidu-site-verification)  codeva-cCAOSG8MBO
+    tj51laid        = 'K3tUAD8SiUeVg74K'                        		# 51.LA 网站统计
+    tj51lack        = 'K3tUAD8SiUeVg74K'
+    GoogleAdsClient = 'ca-pub-2832930496782786'					# Google AdSense
+
+[params.qweather]
+    key = "085791e805a24491b43b06cf58ab31e7"
+
+[params.images]
+    favicon           = "assets/images/favicon.png"
+    searchImageL      = "assets/images/bg-ai-light.png"		# 搜索部分浅色背景图
+    searchImageD      = "assets/images/bg-ai-light.png"		# 搜索部分深色背景图
+    logoExpandLight   = "assets/images/bt8-expand-light.png"
+    logoExpandDark    = "assets/images/bt8-expand-dark.png"
+    logoCollapseLight = "assets/images/bt.png"
+    logoCollapseDark  = "assets/images/bt.png"
+    
+[markup.goldmark.renderer]
+    unsafe = true
+
+[params.footer]
+    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：43451553@qq.com <br/>&copy; 2023 - {year} By WebStack-Hugo | 皖ICP备17021150号<br/>'

@@ -1,0 +1,266 @@
+---
+
+- taxonomy: 常用推荐
+  icon: far fa-star
+  links: 
+    - title: 好就是C
+      logo: compass.png
+      url: https://hao.94c.cn
+      qrcode: assets/images/logos/compass.png
+      description: https://hao.94c.cn ai导航领导者
+    - title: chatgpt3.5
+      logo: chatgpt4.0.png
+      url: https://link.94c.cn/?link=https://c.binjie.fun
+      description: 免费无注册-最好用01。
+    - title: chatgpt3.5
+      logo: chatgpt4.0.png
+      url: https://link.94c.cn/?link=https://www.zxf7460.cn
+      description: 免费无注册-最好用02。
+    - title: chatgpt3.5
+      logo: chatgpt4.0.png
+      url: https://link.94c.cn/?link=https://kqpev.aitianhu.ink
+      description: 免费无注册-最好用03。
+    - title: chatgpt4.0
+      logo: chatgpt4.0.png
+      url: https://link.94c.cn/?link=https://www.a0.chat
+      description: 免费无注册-百晓生AI。
+    - title: chatgpt3.5[4.0]
+      logo: chatgpt4.0.png
+      url: https://link.94c.cn/?link=https://botgpt.link
+      description: 密码一个6免费。
+    - title: chatgpt3.5
+      logo: chatgpt4.0.png
+      url: https://link.94c.cn/?link=https://al.ibooker.org.cn/assist
+      description: 免费无注册-ailake问答助手。
+    - title: AILake[ai画图/助手]
+      logo: ailake.svg
+      url: https://link.94c.cn/?link=https://al.ibooker.org.cn/assist
+      description: 白嫖AILake 提供中文免费、无需注册、秒级响应，打开网站就可以直接使用...
+    - title: 思默问答[ai大全]
+      logo: simo.png
+      url: https://link.94c.cn/?link=https://www.sitesmo.com
+      description: 免费思默问答[ai大全]
+    - title: chatgpt文献分析
+      logo: chatgpt4.0.png
+      url: https://link.94c.cn/?link=https://www.knowledgetoproduct.com
+      description: chatgpt文献分析助手-支持PDF上传，针对文献内容，进行提问
+    - title: 灵感引擎[ai大全]
+      logo: chatgpt4.0.png
+      url: https://link.94c.cn/?link=https://www.aixx.ai
+      description: 免费无注册-灵感引擎[ai大全]
+    - title: github加速下载
+      logo: github.png
+      url: https://link.94c.cn/?link=https://ghproxy.com
+      description: GitHub代理加速下载
+    - title: mobaxterm激活
+      logo: mobaxterm.png
+      url: https://link.94c.cn/?link=http://tool.94c.cn
+      description: 免费激活mobaxterm
+    - title: linux一键脚本大全
+      logo: linux.png
+      url: https://link.94c.cn/?link=http://tool.94c.cn
+      description: linux一键懒人安装大全(大全更新1%)|1.更新Yum/apt源脚本（CentOS系列和Ubuntu自适配版）
+    - title: 腾讯软件中心[大全]
+      logo: qqpc.jpg
+      url: https://link.94c.cn/?link=https://pc.qq.com/category/c0.html
+      description: 免费软件高速下载，全部软件都已经过安全杀毒检测。手机、电脑客户端版应用软件大全，最新最快速的软件下载中心
+    - title: 视频去水印[大全]
+      logo: eraser.png
+      url: https://link.94c.cn/?link=https://lab.5ime.cn/video
+      description: 抖音/微视/快手/皮皮虾/6间房/哔哩哔哩/微博/绿洲/度小视/开眼/陌陌/皮皮搞笑/全民k歌/逗拍/虎牙/新片场/哔哩哔哩/Acfun/美拍/西瓜视频/火山小视频/网易云Mlog/好看视频/QQ小世界
+    - title: office系列激活
+      logo: office.png
+      url: https://link.94c.cn/?link=http://tool.94c.cn
+      description: 免费激活office全家桶
+    - title: 交流社区
+      logo: fankui.png
+      url: https://link.94c.cn/?link=https://support.qq.com/products/600178
+      description: 提出你的想法与宝贵建议
+
+- taxonomy: 人工智能
+  icon: fas fa-lightbulb icon-fw icon-lg
+  list:
+    - term: AI问答
+      links:
+        - title: chatgpt3.5
+          logo: chatgpt4.0.png
+          url: https://link.94c.cn/?link=https://c.binjie.fun
+          description: 免费无注册-最好用01。
+        - title: chatgpt3.5
+          logo: chatgpt4.0.png
+          url: https://link.94c.cn/?link=https://www.zxf7460.cn
+          description: 免费无注册-最好用02。
+        - title: chatgpt3.5
+          logo: chatgpt4.0.png
+          url: https://link.94c.cn/?link=https://kqpev.aitianhu.ink
+          description: 免费无注册-最好用03。
+        - title: chatgpt4.0
+          logo: chatgpt4.0.png
+          url: https://link.94c.cn/?link=https://www.a0.chat
+          description: 免费无注册-百晓生AI。
+        - title: chatgpt3.5[4.0]
+          logo: chatgpt4.0.png
+          url: https://link.94c.cn/?link=https://botgpt.link
+          description: 密码一个6免费。
+        - title: chatgpt3.5
+          logo: chatgpt4.0.png
+          url: https://link.94c.cn/?link=https://al.ibooker.org.cn/assist
+          description: 免费无注册-ailake问答助手。
+        - title: 文心一言
+          logo: chat-baidu-icon.png
+          url: https://link.94c.cn/?link=https://yiyan.baidu.com
+          description: 百度AI对话-文心一言。
+        - title: 通义千问
+          logo: tongyiqianwen.png
+          url: https://link.94c.cn/?link=https://qianwen.aliyun.com
+          description: 阿里AI对话-通义千问。
+        - title: 灵感引擎
+          logo: chatgpt4.0.png
+          url: https://link.94c.cn/?link=https://www.aixx.ai
+          description: 免费无注册-灵感引擎[ai大全]
+        - title: 思默问答
+          logo: simo.png
+          url: https://link.94c.cn/?link=https://www.sitesmo.com
+          description: 免费无注册-思默问答
+
+    - term: AI画画
+      links:
+        - title: AILake[ai画图/助手]
+          logo: ailake.svg
+          url: https://link.94c.cn/?link=https://al.ibooker.org.cn/assist
+          description: 白嫖AILake 提供中文免费、无需注册、秒级响应，打开网站就可以直接使用...
+        - title: 文心一格
+          logo: wenxin.png
+          url: https://link.94c.cn/?link=https://yige.baidu.com
+          description: 百度AI绘画-文心一格
+    - term: AI音视
+      links:
+        - title: BiliGPT
+          logo: biligpt.png
+          url: https://link.94c.cn/?link=https://b.jimmylv.cn
+          description: 一键总结任何[小红书/B站/公众号/本地...]网页音视频内容
+        - title: RephraseAI
+          logo: rephraseai.png
+          url: https://link.94c.cn/?link=https://www.rephrase.ai
+          description: ai处理视频
+    - term: AI杂类
+      links:
+        - title: GPTexcel
+          logo: gptexcel.jpg
+          url: https://link.94c.cn/?link=https://chatexcel.com
+          description: ai生成Excel公式-中文
+        - title: chatgpt学术优化
+          logo: chatgpt4.0.png
+          url: https://link.94c.cn/?link=https://chat.academic.bnu120.space
+          description: chatgpt学术优化
+        - title: chatgpt文献分析
+          logo: chatgpt4.0.png
+          url: https://link.94c.cn/?link=https://www.knowledgetoproduct.com
+          description: chatgpt文献分析助手-支持PDF上传，针对文献内容，进行提问
+
+
+- taxonomy: 在线工具
+  icon: fas fa-tools fa-lg icon-fw icon-lg mr-2
+  list:
+    - term: 软件下载
+      links:
+        - title: 腾讯软件中心
+          logo: qqpc.jpg
+          url: https://link.94c.cn/?link=https://pc.qq.com/category/c0.html
+          description: 海量免费软件高速下载，全部软件都已经过安全杀毒检测。手机、电脑客户端版应用软件大全，最新最快速的软件下载中心
+        - title: 360软件中心
+          logo: 360.ico
+          url: https://link.94c.cn/?link=https://baoku.360.cn/soft/list/cid/0
+          description: 360软件宝库-海量软件官方正版下载_安全高速免费。
+        - title: NET安装包全家桶
+          logo: net.png
+          url: https://link.94c.cn/?link=http://baoku.360.cn/soft/search?kw=net
+          description: NET安装包下载，电脑提示缺少NET库时用。
+        - title: github加速下载
+          logo: github.png
+          url: https://link.94c.cn/?link=https://ghproxy.com
+          description: GitHub代理加速下载
+
+    - term: 激活注册
+      links:
+        - title: mobaxterm激活
+          logo: mobaxterm.png
+          url: https://link.94c.cn/?link=http://tool.94c.cn
+          description: 免费激活mobaxterm
+        - title: office系列激活
+          logo: office.png
+          url: https://link.94c.cn/?link=http://tool.94c.cn
+          description: 免费激活office全家桶
+        - title: 视频去水印[大全]
+          logo: eraser.png
+          url: https://link.94c.cn/?link=https://lab.5ime.cn/video
+          description: 抖音/微视/快手/皮皮虾/6间房/哔哩哔哩/微博/绿洲/度小视/开眼/陌陌/皮皮搞笑/全民k歌/逗拍/虎牙/新片场/哔哩哔哩/Acfun/美拍/西瓜视频/火山小视频/网易云Mlog/好看视频/QQ小世界
+    - term: 其他杂类
+      links:
+        - title: 在线抠图
+          logo: remove.png
+          url: https://link.94c.cn/?link=https://www.remove.bg
+          description: 在线AI抠图换背景
+   
+      
+- taxonomy: 素材资源
+  icon: far fa-folder-open fa-lg
+  list:
+    - term: 图标素材
+      links:
+        - title: Iconfinder
+          logo: Iconfinder.png
+          url: https://www.iconfinder.com
+          description: 2,100,000+ free and premium vector icons.
+        - title: 阿里巴巴矢量图标库[iconfont]
+          logo: iconfont.png
+          url: https://link.94c.cn/?link=https://www.iconfont.cn
+          description: 国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具
+        - title: FontAwesome
+          logo: fontawesome.png
+          url: https://link.94c.cn/?link=https://fontawesome.com
+          description: 世界上最受欢迎和最容易使用的图标集。
+
+
+
+- taxonomy: 悠闲娱乐
+  icon: fas fa-film fa-lg
+  list:
+    - term: 影音视频
+      links:
+        - title: 腾讯视频
+          logo: qq-video.png
+          url: http://v.qq.com/
+          description: 腾讯视频，海量视频在线观看。
+        - title: 优酷
+          logo: youku-video.png
+          url: http://www.youku.com/
+          description: 优酷 - 这个世界很酷。
+        - title: 爱奇艺
+          logo: iqiyi-video.png
+          url: https://www.iqiyi.com/
+          description: 爱奇艺在线视频。
+        - title: 哔哩哔哩
+          logo: bilibili-video.png
+          url: https://www.bilibili.com/
+          description: Bilibili 视频弹幕网站。
+        - title: 网易云音乐
+          logo: wangyiyun.jpg
+          url: https://music.163.com/
+          description: 163 网易云音乐。
+        - title: 电影天堂（DYGOD）
+          logo: dytt.png
+          url: https://www.dygod.net/
+          description: 电影天堂（DYGOD），高清电影下载。
+
+
+- taxonomy: 社区论坛
+  icon: fas fa fa-comments icon-fw icon-lg mr-2
+  list:
+    - term: 交流社区
+      links:
+        - title: 留言建议
+          logo: fankui.png
+          url: https://link.94c.cn/?link=https://support.qq.com/products/600178
+          description: 提出你的想法与宝贵建议
+
