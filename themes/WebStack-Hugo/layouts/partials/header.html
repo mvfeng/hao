@@ -9,7 +9,10 @@
     <meta name="theme-color" content="#f9f9f9" />
     <title>{{ .Site.Title }}</title>
     <link rel="shortcut icon" href="{{ relURL $.Site.Params.images.favicon }}" />
-    <meta name="keywords" content="{{ .Site.Title }}" />
+    <meta name="keywords" content="{{ $.Site.Params.keywords }}" />
+    <meta name="description" content="{{ $.Site.Params.description }}" />
+    <meta name="author" content="{{ $.Site.Params.author }}" />
+    <meta name="copyright" content="{{ $.Site.Params.copyright }}" />
     {{ if $.Site.Params.seo.baiduSiteVer }}
     <meta name="baidu-site-verification" content="{{ $.Site.Params.seo.baiduSiteVer }}" />
     {{ end }}

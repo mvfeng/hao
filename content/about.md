@@ -1,33 +1,21 @@
 ---
-title: "关于网站"
-date: 2020-07-28T19:27:08+08:00
+title: "本站介绍-好导航94c"
+date: 2023-08-31T19:27:08+08:00
 draft: false
 ---
+#### 本站介绍-[好导航94c](https://hao.94c.cn)
+hao.94c.cn-好导航94c是一家专注于人工智能领域的全面网站导航平台，为AI创作者和爱好者提供丰富、全面的资源导航服务。成立于2023年的好导航94c已经成为了AI网站导航领域的领导者，并不断为用户提供最新、最全面的AI技术资源。
 
-#### 这是 Hugo 版 WebStack 主题
+好导航94c汇集了各个领域的顶级AI网站和资源，涵盖了包括AI画画、AI智能对话、AI语音、AI视频、AI提示词、AI工具、AI智能写作等多个领域。无论您是初学者还是专业人士，好导航94c都能为您提供定制化的导航链接，满足您在AI领域的学习、研究和应用需求。
 
-本项目是基于**纯静态**的网址导航网站 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 制作的 [Hugo](https://gohugo.io/) 主题，其中部分代码参考了以下几个开源项目：<br/><br/>
+在好导航94c的导航页面上，用户可以轻松地搜索和浏览各类AI相关网站和资源。无论您对于学习AI技术、开展AI项目还是获取最新的AI资讯感兴趣，好导航94c都能为您提供准确、可靠的信息和链接。您可以找到众多优秀的AI开源项目、权威的AI资讯网站、强大的AI翻译工具等，满足您的不同需求。
 
-- [https://github.com/liutongxu/liutongxu.github.io](https://github.com/liutongxu/liutongxu.github.io)
-- [https://github.com/iplaycode/webstack-hugo](https://github.com/iplaycode/webstack-hugo)
+好导航94c致力于为用户提供高质量的内容和服务。他们收集和整理来自各个领域的优质网站和资源，确保用户获得准确、可靠的信息。与此同时，好导航94c注重用户体验，他们在页面布局和导航方式上进行了简化和优化，使用户能够轻松快捷地找到所需信息。
 
-<br/>
+作为一家专业的AI导航平台，好导航94c不仅提供资源导航，还关注AI技术的发展和创新。他们紧跟最新的AI技术动态，定期更新和推荐最新的AI学习资源和工具，帮助用户掌握最前沿的AI技术。
 
-主题安装后，将 exampleSite 目录下的文件复制到 hugo 站点根目录，根据需要把 config.toml 的一些信息改成自己的，导航的网址信息可通过 data 目录下 webstack.yml 修改。
+总之，好导航94c是一家值得信赖的AI网站导航平台。通过他们，您可以快速找到最新的AI技术、工具和资讯，满足您在AI领域的学习、研究和应用需求。无论您是想要学习AI、开展AI项目，还是追踪AI技术的最新进展，好导航94c都将是您的最佳选择。
 
-这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
+请注意，好导航94c作为一个资源导航平台，并非所有的内容都由其直接提供。用户在使用过程中，需自行判断和甄别信息的真实性和可信度。对于一些需要付费或需要提供个人信息的网站和资源，建议用户谨慎操作，并注意保护个人隐私和权益。
 
-WebStack 有非常多的魔改版本，这是其中一个。如果你对本主题进行了一些个性化调整，欢迎来本项目中 issue 分享一下！
 
-<br/>
-
-#### 主题开源地址
-
-[https://github.com/shenweiyan/webstack-hugo](https://github.com/shenweiyan/webstack-hugo)
-
-<br/>
-
-#### 主题演示地址
-
-- [https://nav.bioitee.com](https://nav.bioitee.com)
-- [https://shenweiyan.github.io/webstack-hugo](https://shenweiyan.github.io/webstack-hugo)
