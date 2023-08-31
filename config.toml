@@ -14,7 +14,7 @@ publishDir            = "public"					# 站点静态文件保存目录
     keywords      = "chagpt,chagpt导航,好导航94c,AIGC,AIGC网站,AI镜像,AI导航,AI人工智能,AI画画,AI智能对话,AI翻译,AI提示词,AI工具,AI智能写作,AI视频,AI语音,AI资讯,AI资源,AI开源"
     copyright     = "94c.cn"
     upload        = "https://support.qq.com/products/600178"  # 左侧导航栏的"网站提交"
-    about         = "./about"	# 左侧导航栏的"关于导航"页面(./about)
+    about         = "about"	# 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"  
     enablePreLoad = false					# 网站完全打开前预加载动画
     textPreLoad   = "hao.94c.cn"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
@@ -26,7 +26,8 @@ publishDir            = "public"					# 站点静态文件保存目录
 
 [params.seo]    
     baiduhmid       = '7ab391c7100e2e3ff376ff696f0257ad'	# 百度统计 hm.src 的 ID
-    baiduSiteVer    = '#'			# 百度HTML标签验证(baidu-site-verification)  codeva-cCAOSG8MBO
+    baiduSiteVer    = 'codeva-Vd4Wkhj5d3'			# 百度HTML标签验证(baidu-site-verification)  codeva-cCAOSG8MBO
+    googleSiteVerification = 'Pzfa7CAEHEZ8aBSq_pAze1vbdSM6OK2Lc35RYn8cZA8'
     tj51laid        = 'K3tUAD8SiUeVg74K'                        		# 51.LA 网站统计
     tj51lack        = 'K3tUAD8SiUeVg74K'
     GoogleAdsClient = 'ca-pub-2832930496782786'					# Google AdSense
