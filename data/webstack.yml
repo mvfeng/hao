@@ -3,10 +3,10 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: 好就是C
-      logo: compass.png
+    - title: 好导航94c
+      logo: bt.png
       url: https://hao.94c.cn
-      qrcode: assets/images/logos/compass.png
+      qrcode: assets/images/logos/qq.jpg
       description: https://hao.94c.cn ai导航领导者
     - title: chatgpt3.5
       logo: chatgpt4.0.png
