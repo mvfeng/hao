@@ -19,6 +19,13 @@
     {{ if $.Site.Params.seo.googleSiteVerification }}
     <meta name="google-site-verification" content="{{ $.Site.Params.seo.googleSiteVerification }}" />
     {{ end }}
+    {{ if $.Site.Params.seo.shenmaSiteVerification }}
+    <meta name="shenma-site-verification" content="{{ $.Site.Params.seo.shenmaSiteVerification }}" />
+    {{ end }}
+    {{ if $.Site.Params.seo.bytedanceVerificationCode }}
+    <meta name="bytedance-verification-cod" content="{{ $.Site.Params.seo.bytedanceVerificationCode }}" />
+    {{ end }}
+
     <link rel="stylesheet" id="block-library-css"
         href="{{ relURL "assets/css/block-library.min-5.6.2.css" }}" type="text/css" media="all" />
     <link rel="stylesheet" id="iconfont-css" href="{{ relURL "assets/css/iconfont-3.03029.1.css" }}"
@@ -58,4 +65,15 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ $.Site.Params.seo.GoogleAdsClient }}" crossorigin="anonymous"></script>
     {{ end }}
     <!-- end Google AdSense -->
+    <!-- 头条抓取-->
+    <script>
+        (function(){
+            var el = document.createElement("script");
+            el.src = "https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?516171a77df448e4b5def836e247719791f3c26992111e3ff0a04eb7671022ea3871f0d6a9220c04b06cd03d5ba8e733fe66d20303562cd119c1d6f449af6378";
+            el.id = "ttzz";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(el, s);
+        })(window)
+    </script>
+    <!-- end 头条抓取-->
 </head>

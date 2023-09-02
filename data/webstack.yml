@@ -4,9 +4,9 @@
   icon: far fa-star
   links: 
     - title: 好导航94c
-      logo: bt.png
+      logo: logo.png
       url: https://hao.94c.cn
-      qrcode: assets/images/logos/qq.jpg
+      qrcode: assets/images/logos/logo.png
       description: https://hao.94c.cn ai导航领导者
     - title: chatgpt3.5
       logo: chatgpt4.0.png
@@ -68,6 +68,10 @@
       logo: eraser.png
       url: https://link.94c.cn/?link=https://lab.5ime.cn/video
       description: 抖音/微视/快手/皮皮虾/6间房/哔哩哔哩/微博/绿洲/度小视/开眼/陌陌/皮皮搞笑/全民k歌/逗拍/虎牙/新片场/哔哩哔哩/Acfun/美拍/西瓜视频/火山小视频/网易云Mlog/好看视频/QQ小世界
+    - title: 在线抠图
+      logo: remove.png
+      url: https://link.94c.cn/?link=https://www.remove.bg
+      description: 在线AI抠图换背景
     - title: office系列激活
       logo: office.png
       url: https://link.94c.cn/?link=http://tool.94c.cn
@@ -125,10 +129,16 @@
 
     - term: AI画画
       links:
-        - title: AILake[ai画图/助手]
+        - title: AILake[无登录免费]
           logo: ailake.svg
           url: https://link.94c.cn/?link=https://al.ibooker.org.cn/assist
           description: 白嫖AILake 提供中文免费、无需注册、秒级响应，打开网站就可以直接使用...
+
+        - title: 哩布哩布AI[登录免费]
+          logo: liblibai.ico
+          url: https://link.94c.cn/?link=https://www.liblibai.com
+          description: LiblibAI·哩布哩布AI-中国领先的AI创作平台
+
         - title: 文心一格
           logo: wenxin.png
           url: https://link.94c.cn/?link=https://yige.baidu.com
@@ -220,8 +230,6 @@
           logo: fontawesome.png
           url: https://link.94c.cn/?link=https://fontawesome.com
           description: 世界上最受欢迎和最容易使用的图标集。
-
-
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg

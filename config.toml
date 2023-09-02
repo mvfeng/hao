@@ -1,6 +1,6 @@
 baseURL               = "https://hao.94c.cn/"
 languageCode          = "zh-CN"
-title                 = "ai导航-好导航94c,chatgpt镜像,ai画画,免费ai工具合集网站!,他是你的ai助手,为你收集国内外aigc软件服务网址导航"
+title                 = "ai导航-好导航94c,chatgpt镜像,ai画画,免费ai工具集网站,你的ai助手,为你收集国内外aigc软件服务网址导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -20,14 +20,17 @@ publishDir            = "public"					# 站点静态文件保存目录
     textPreLoad   = "hao.94c.cn"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = true					# 默认展开左侧边导航栏
     logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
-    defaultLogo   = "assets/images/logos/compass.png"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
+    defaultLogo   = "assets/images/logos/logo.png"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
     nightMode     = false					# 默认站点为深色(夜间)模式
     yiyan         = true                         		# 默认启用一言服务
+
 
 [params.seo]    
     baiduhmid       = '7ab391c7100e2e3ff376ff696f0257ad'	# 百度统计 hm.src 的 ID
     baiduSiteVer    = 'codeva-Vd4Wkhj5d3'			# 百度HTML标签验证(baidu-site-verification)  codeva-cCAOSG8MBO
     googleSiteVerification = 'Pzfa7CAEHEZ8aBSq_pAze1vbdSM6OK2Lc35RYn8cZA8'
+    shenmaSiteVerification = 'ba6570de767b865c920af014b2a584ca_1693547365'
+    bytedanceVerificationCode ='axK/2yvxCn+OqS86U1iK'
     #<meta name="shenma-site-verification" content="ba6570de767b865c920af014b2a584ca_1693547365"/>
     #<meta name="bytedance-verification-code" content="axK/2yvxCn+OqS86U1iK" />
     tj51laid        = 'K3tUAD8SiUeVg74K'                        		# 51.LA 网站统计
