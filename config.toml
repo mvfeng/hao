@@ -31,8 +31,6 @@ publishDir            = "public"					# 站点静态文件保存目录
     googleSiteVerification = 'Pzfa7CAEHEZ8aBSq_pAze1vbdSM6OK2Lc35RYn8cZA8'
     shenmaSiteVerification = 'ba6570de767b865c920af014b2a584ca_1693547365'
     bytedanceVerificationCode ='axK/2yvxCn+OqS86U1iK'
-    #<meta name="shenma-site-verification" content="ba6570de767b865c920af014b2a584ca_1693547365"/>
-    #<meta name="bytedance-verification-code" content="axK/2yvxCn+OqS86U1iK" />
     tj51laid        = 'K3tUAD8SiUeVg74K'                        		# 51.LA 网站统计
     tj51lack        = 'K3tUAD8SiUeVg74K'
     GoogleAdsClient = 'ca-pub-2832930496782786'					# Google AdSense
