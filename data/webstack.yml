@@ -167,7 +167,36 @@
           logo: chatgpt4.0.png
           url: https://link.94c.cn/?link=https://www.knowledgetoproduct.com
           description: chatgpt文献分析助手-支持PDF上传，针对文献内容，进行提问
+        - title: Bigjpg放大图片
+          logo: bigjpg.ico
+          url: https://link.94c.cn/?link=https://bigjpg.com/zh
+          description: AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片
+        - title: 在线抠图
+          logo: remove.png
+          url: https://link.94c.cn/?link=https://www.remove.bg
+          description: 在线AI抠图换背景
 
+- taxonomy: 音画处理
+  icon: fas fa-photo-video fa-lg icon-fw icon-lg mr-2
+  list:
+    - term: 图片处理
+      links:
+        - title: 在线抠图
+          logo: remove.png
+          url: https://link.94c.cn/?link=https://www.remove.bg
+          description: 在线AI抠图换背景
+        - title: docsmall压缩图片
+          logo: docsmall.png
+          url: https://link.94c.cn/?link=https://docsmall.com
+          description: 在线无损压缩jpg、png、gif
+        - title: TinyPNG压缩图片
+          logo: tinypng.png
+          url: https://link.94c.cn/?link=https://tinypng.com
+          description: jpg、png智能压缩
+        - title: Bigjpg放大图片
+          logo: bigjpg.ico
+          url: https://link.94c.cn/?link=https://bigjpg.com/zh
+          description: AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片
 
 - taxonomy: 在线工具
   icon: fas fa-tools fa-lg icon-fw icon-lg mr-2
@@ -227,10 +256,6 @@
   list:
     - term: 图标素材
       links:
-        - title: Iconfinder
-          logo: Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
         - title: 阿里巴巴矢量图标库[iconfont]
           logo: iconfont.png
           url: https://link.94c.cn/?link=https://www.iconfont.cn
@@ -239,6 +264,14 @@
           logo: fontawesome.png
           url: https://link.94c.cn/?link=https://fontawesome.com
           description: 世界上最受欢迎和最容易使用的图标集。
+        - title: FontAwesome
+          logo: fontawesome.png
+          url: https://link.94c.cn/?link=https://fontawesome.com
+          description: 世界上最受欢迎和最容易使用的图标集。
+        - title: PNGimg
+          logo: pngimg.png
+          url: https://link.94c.cn/?link=http://pngimg.com
+          description: 透明背景的png图片，再也不用抠图了
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
