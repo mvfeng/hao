@@ -1,7 +1,7 @@
 baseURL               = "https://hao.94c.cn/"
 languageCode          = "zh-CN"
 title                 = "ai导航-好导航94c,chatgpt镜像,ai画画,免费ai工具集网站,你的ai助手,为你收集国内外aigc软件服务网址导航"
-theme                 = "WebStack-Hugo"
+theme                 = "WebStack-hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
@@ -11,7 +11,7 @@ publishDir            = "public"					# 站点静态文件保存目录
 [params]
     author        = "94c社区"
     description   = "ai导航是好导航94c精选全面的AIGC网站导航！ai导航2023年成立至今，好导航94c为ai创作者提供AI画画、AI智能对话、AI语音、AI视频、AI提示词、AI工具、AI智能写作等AI网站导航领导者"
-    keywords      = "chagpt,chagpt导航,好导航94c,AIGC,AIGC网站,AI镜像,AI导航,AI人工智能,AI画画,AI智能对话,AI翻译,AI提示词,AI工具,AI智能写作,AI视频,AI语音,AI资讯,AI资源,AI开源"
+    keywords      = "chagpt,导航,好导航94c,AIGC,AIGC网站,AI镜像,AI导航,AI人工智能,AI画画,AI对话,AI翻译,AI提示词,AI工具,AI写作,AI视频,AI语音,AI资讯,AI资源,AI开源"
     copyright     = "94c.cn"
     upload        = "https://support.qq.com/products/600178"  # 左侧导航栏的"网站提交"
     about         = "about"	# 左侧导航栏的"关于导航"页面(./about)
@@ -51,4 +51,4 @@ publishDir            = "public"					# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：43451553@qq.com <br/>&copy; 2023 - {year} By WebStack-Hugo | 皖ICP备17021150号<br/>'
+    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：43451553@qq.com <br/>&copy; 2023 - {year} By 七牛云加速 | 皖ICP备17021150号<br/>'
