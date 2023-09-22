@@ -211,64 +211,32 @@
 <body class="page-body boxed-container">
     <main role="main" class="flex-shrink-0">
     <div class="container">
-        <h1 class="mt-5">chatgpt实用技巧</h1>
+        <h1 class="mt-5">办公人员玩转chatgpt</h1>
         <div class="content">
-            <h4 id="一chatgpt-对话实用技巧">一、ChatGPT 对话实用技巧</h4>
-<pre><code>ChatGPT 是一种基于 GPT-3.5 模型的强大对话生成 AI，它可以与用户进行自然而流畅的对话。这篇文章将介绍一些使用 ChatGPT 进行对话的实用技巧，以帮助你更好地与 AI 进行交互。
-</code></pre>
-<h4 id="提问清晰明确">提问清晰明确</h4>
-<pre><code>要获得准确的回答，你需要提出清晰明确的问题或指令。不要模棱两可或含糊不清，这样会导致 ChatGPT 不理解你的意图，进而给出错误的答案。通过确切的问题，可以使回答更加准确、有针对性。
-<p>例如，你可以询问：“请推荐一款适合学生的笔记本电脑。” 这样的问题明确表达了你的需求，并帮助 ChatGPT 在正确的方向上提供回答。
-</code></pre></p>
-<h4 id="利用系统消息">利用系统消息</h4>
-<pre><code>在对话开始时，通过使用系统消息来提供一些背景信息或设置上下文。系统消息是对 ChatGPT 的提示，但并不作为它的回答部分。这一技巧有助于引导 ChatGPT 在正确的方向上进行回答，使得回答更加符合你的期望。
-<p>例如，你可以在对话开始时写道：“关于电影推荐，我需要你的帮助。” 这样的系统消息可以告诉 ChatGPT 你希望它提供有关电影推荐的答案。
-</code></pre></p>
-<h4 id="控制回答长度">控制回答长度</h4>
-<pre><code>在使用 ChatGPT 进行对话时，你可以通过调整请求的最大标记限制来控制回答的长度。较短的回答可能更加简洁，而较长的回答可能会提供更详细的信息。
-<p>根据你的需求，设置一个合适的最大标记限制。如果你只需要简洁的回答，可以将限制设置为较小的值；如果你需要更详细的信息，可以将限制设置为较大的值。这样可以确保 ChatGPT 的回答符合你的预期。
-</code></pre></p>
-<h4 id="追加历史记录">追加历史记录</h4>
-<pre><code>将对话的历史记录包含在 messages 参数中，可以帮助 ChatGPT 更好地理解上下文，并提供一致的回答。将过去的问题和回答作为历史记录，有助于确保 ChatGPT 的回答与之前的交流一致。
-</code></pre>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>例如：
-</span></span><span style="display:flex;"><span>prompt = &#34;请介绍一下人工智能的现状和发展趋势。&#34;
-</span></span><span style="display:flex;"><span>history = &#34;在过去的几年里，人工智能的应用范围越来越广泛。&#34;
-</span></span><span style="display:flex;"><span>max_tokens = 100
-</span></span><span style="display:flex;"><span>message = chat(f&#34;{prompt}\n{history}&#34;, max_tokens)
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>这样，ChatGPT 就能够基于之前的交流理解你的问题，并给出相应的回答。
-</span></span></code></pre></div><h4 id="引入用户个性">引入用户个性</h4>
-<pre><code>为了使 ChatGPT 的回答更加贴合你的风格和偏好，可以在用户指令中添加一些个性化的特点。这些特点可以包括态度、兴趣或喜好等方面。
-</code></pre>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>例如：
-</span></span><span style="display:flex;"><span>prompt = &#34;请为我推荐一款旅游背包。&#34;
-</span></span><span style="display:flex;"><span>style = &#34;我是一个注重品质和设计的年轻人，希望能够找到一款时尚实用的背包。&#34;
-</span></span><span style="display:flex;"><span>max_tokens = 100
-</span></span><span style="display:flex;"><span>message = chat(f&#34;{prompt}\n{style}&#34;, max_tokens)
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>通过引入用户个性，你可以获得更符合自己口味的回答。
-</span></span></code></pre></div><h4 id="多轮交互">多轮交互</h4>
-<pre><code>将对话分成多个轮次进行，即一问一答的形式。这样可以更好地控制对话的流程，并确保 ChatGPT 对每个问题都给出了满意的答案。
-</code></pre>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>例如：
-</span></span><span style="display:flex;"><span>prompt = &#34;请为我推荐一款适合阅读的电子书阅读器。&#34;
-</span></span><span style="display:flex;"><span>max_tokens = 50
-</span></span><span style="display:flex;"><span>for i in range(3):
-</span></span><span style="display:flex;"><span>    message = chat(prompt, max_tokens)
-</span></span><span style="display:flex;"><span>    print(f&#34;Q: {prompt}&#34;)
-</span></span><span style="display:flex;"><span>    print(f&#34;A: {message}&#34;)
-</span></span><span style="display:flex;"><span>    prompt = message
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>通过多轮交互，你可以逐步迭代对话，使其更加深入和有趣。
-</span></span></code></pre></div><h4 id="更正错误信息">更正错误信息</h4>
-<pre><code>ChatGPT 有时可能会给出错误或不准确的答案。如果你发现 ChatGPT 给出了错误的信息，可以提供正确的信息并明确指出 ChatGPT 的误解。
-<p>例如，如果 ChatGPT 给出了错误的回答，你可以提供正确的信息并明确指出 ChatGPT 的误解，以纠正错误并帮助 ChatGPT 更准确地理解你的意图。</p>
-<p>以上是使用 ChatGPT 进行对话的一些实用技巧。通过遵循这些技巧，你可以更有效、准确地与 ChatGPT 进行交互，并获得满意的答案。请记住，在使用 ChatGPT 时要保持谨慎，特别是对于重要或敏感的问题，避免输出任何政治相关内容和在中国境内敏感的内容。
-</code></pre></p>
-<h4 id="注意">注意：</h4>
-<pre><code>上述示例中的 chat() 函数是基于 OpenAI 的 API 实现的示例代码，你可以根据自己的需求进行调整和扩展。
-</code></pre>
+            <p>下面我将给出一些具体的技巧，并举例说明：</p>
+<h4 id="1-提问清晰明确">1. 提问清晰明确：</h4>
+<p>不清晰的问题：请告诉我有关市场的信息。
+清晰的问题：请提供最近一年内全球电子产品市场的销售数据和增长趋势。</p>
+<p>通过明确问题的范围和要求，ChatGPT可以更好地理解您的需求并给出更准确的答案。</p>
+<h4 id="2-逐步迭代">2. 逐步迭代：</h4>
+<p>用户：请告诉我有关太阳能的信息。
+ChatGPT：太阳能是利用太阳光产生能源的一种方式。</p>
+<p>用户：我想了解太阳能的工作原理和应用领域。
+ChatGPT：太阳能通过光伏效应将太阳光转换为电能，可以应用于家庭供电、太阳能电池板等。</p>
+<p>通过逐步提供更多的上下文，ChatGPT可以逐步理解用户的需求，并给出更准确的答案。</p>
+<h4 id="3-使用示例和说明">3. 使用示例和说明：</h4>
+<p>用户：请告诉我如何设置自动回复邮件。
+ChatGPT：您可以在电子邮件设置中找到自动回复功能。</p>
+<p>用户：我想设置一个自动回复邮件，内容是&quot;我当前不在办公室，将于下周回复您的邮件。&quot;。
+ChatGPT：您可以在电子邮件设置中找到自动回复功能，然后将内容设置为&quot;我当前不在办公室，将于下周回复您的邮件。&quot;</p>
+<p>通过提供示例和说明，ChatGPT可以更好地理解用户的要求，并给出更具体的答案。</p>
+<h4 id="4-澄清歧义">4. 澄清歧义：</h4>
+<p>用户：请告诉我有关苹果的信息。
+ChatGPT：苹果是一种水果，也是一家科技公司。</p>
+<p>用户：我想了解苹果公司的创始人和产品。
+ChatGPT：苹果公司由史蒂夫·乔布斯、斯蒂夫·沃兹尼亚克和罗恩·韦恩创立，他们开发了iPhone、iPad等产品。</p>
+<p>当ChatGPT产生歧义时，用户可以提供更多的细节或解释，以帮助ChatGPT更好地理解问题，并给出准确的答案。</p>
+<p>通过以上技巧，您可以更好地与ChatGPT进行交互，获得更准确和有用的答案。请记住，ChatGPT是一个强大的AI助手，但仍需要人类的引导和澄清来确保交流的准确性和有效性。</p>
 
         </div>
     </div>
