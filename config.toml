@@ -11,7 +11,7 @@ publishDir            = "public"					# 站点静态文件保存目录
 [params]
     author        = "94c社区"
     description   = "ai导航是好导航94c精选全面的AIGC网站导航！ai导航2023年成立至今，好导航94c为ai创作者提供AI画画、AI智能对话、AI语音、AI视频、AI提示词、AI工具、AI智能写作等AI网站导航领导者"
-    keywords      = "chagpt,导航,好导航94c,AIGC,AIGC网站,AI镜像,AI导航,AI人工智能,AI画画,AI对话,AI翻译,AI提示词,AI工具,AI写作,AI视频,AI语音,AI资讯,AI资源,AI开源"
+    keywords      = "ai导航,chatgpt镜像,好导航94c,AIGC,AI镜像,AI人工智能,AI画画,AI对话,AI翻译,AI提示词,AI工具,AI写作,AI视频,AI语音,AI资讯,AI资源,AI开源"
     copyright     = "94c.cn"
     upload        = "https://support.qq.com/products/600178"  # 左侧导航栏的"网站提交"
     about         = "about"	# 左侧导航栏的"关于导航"页面(./about)
