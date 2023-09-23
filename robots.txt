@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://hao.94c.cn/sitemap.xml
