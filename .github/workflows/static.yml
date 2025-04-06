@@ -42,4 +42,4 @@ jobs:
           retention-days: 3 # <= 这里可以设置保留天数
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
